@@ -37,3 +37,4 @@ start.addEventListener('click', () => {
 stop.addEventListener('click', () => {
     eventSource.close()
 })
+
